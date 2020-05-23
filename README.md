@@ -6,7 +6,7 @@ In this project, I want to determined the best time series model to predict numb
 2. Construct Possible Model
 3. Choose model with lowest AIC & BIC
 4. Seasonal Model Check
-5. Residual Check: independent Test, normality Test, residual is white noise or not, model variance < data variance
+5. Residual Check: independent Test, normality Test, residual is white noise or not, model variance < data variance.
 6. Overfitting Check
 7. Cross Validation
 8. Forecasting
